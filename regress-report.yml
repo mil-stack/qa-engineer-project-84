@@ -24,4 +24,4 @@ test-cases:
       Проверка сохранения товара в корзине после перезагрузки страницы
     status: fail
 
- bugreports: []
+    bugreports: []
