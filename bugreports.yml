@@ -11,11 +11,11 @@
    actual-result: | 
      Возникает ошибка с кодом 500, и продукт не добавляется в корзину. Ответ содержит следующие сообщения
     {
-      "status": "500",
-      "title": "failed",
-      "type": "about:blank",
-      "detail": "failed",
-      "message": "failed"
+     "status": "500",
+     "title": "failed",
+     "type": "about:blank",
+     "detail": "failed",
+     "message": "failed"
     }
 
  - summary: | 
