@@ -1,13 +1,12 @@
 ---
-name: Ilona Maskova
+name: Milana Mukozheva
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: milana.mukozheva@mail.ru
 description: >
-  Допустим рассказала
+  I am a testing engineer (junior) and a student at the Hexlet programming school.
 skills:
   - Функциональное тестирование
   - Написание багрепортов
   - Linux
   - Слепая печать
-  - Английский язык C1
